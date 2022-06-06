@@ -1,0 +1,27 @@
+{
+    "name": "sampledeployapp",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/HasithaIndrajith/sampleDeployApp.git"
+    },
+
+    "engines": {
+        "node": "v14.16.0"
+    },
+
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/HasithaIndrajith/sampleDeployApp/issues"
+    },
+    "homepage": "https://github.com/HasithaIndrajith/sampleDeployApp#readme",
+    "dependencies": {
+        "express": "^4.18.1"
+    }
+}
